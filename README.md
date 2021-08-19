@@ -1,1 +1,1 @@
-# Zenika Remote Clazz Kubernetes Scale like a pro
+# Zenika Remote Clazz Kubernetes Scale lik
